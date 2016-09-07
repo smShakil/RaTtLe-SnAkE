@@ -8,5 +8,5 @@ Special Thanks to FlatKit Template as Rattle used just the looking of this templ
 We would love to see how you use this awesome admin template. You can notify us about your site, app or service by mailing to [@s.m.shakil](mailto:smshakil.kuet@gmail.com).
 
 # Contact
-S.M. Shakil
-*Email: smshakil@gmail.com
+* S.M. Shakil
+* Email: smshakil@gmail.com
