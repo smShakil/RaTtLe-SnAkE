@@ -1,0 +1,161 @@
+*{
+    box-sizing: border-box;
+}
+ul, ol{
+    list-style-type: none;
+    padding-left: 0px;
+}
+.clr{
+    clear: both;
+}
+html{
+    min-height: 100%;
+}
+body{
+    min-height: 100%;
+}
+
+
+/** ############# Sidebar Section ############## **/
+.side_bar{
+    background: #2E3E4E;
+    padding-left: 25px !important;
+    color: lightgray;
+    font-weight: 500;
+    min-height: 100%;
+
+}
+.menu_bar{
+    overflow: hidden;
+}
+.brand_logo{
+    margin: 10px 0px;
+    
+}
+.logo_img{
+    max-height: 50px;
+    max-width: 50px;
+}
+.logo_text{
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+
+}
+.side_bar ul li,
+.side_bar ul li a{
+    color: lightgray;
+    font-weight: 600;
+    font-size: 15px;
+    
+}
+.side_bar ul li{
+    line-height: 2em;
+}
+.menu_heading{
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    margin: 15px 0px;
+}
+.dropdown_menu{
+    width: 100%;
+    cursor: pointer;
+}
+.menu_icon{
+    margin-right: 20px !important;
+}
+.right_floated{
+    float: right;
+}
+.menu_items{
+    width: 100%;
+    background: #2E3E4E;
+    display: none;
+    padding: 10px 0px;
+}
+.dpd_item{
+    padding-left: 17%;
+}
+.dpd_item a{
+    color: grey !important;
+}
+.dpd_item:hover{
+    background: #3E4E5E;
+}
+.bottom_menu_part{
+    vertical-align: bottom;
+    padding-top: 20%;
+}
+.bottom_menu_part a{
+    color: #fff;
+    font-weight: 600;
+    font-size: 17px;
+}
+.bottom_menu_part span{
+    color: gray;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+/** ############# Mian dashboard Section ############## **/
+
+.main_section{
+    background: #d4d4d4;
+}
+.top_segment{
+    margin-left: -14px !important;
+    border: 0px !important;
+    border-radius: 0px !important;
+}
+.left_src{
+    margin-top: 20px;
+}
+.right_src{
+}
+.right_src_item{
+    float: right;
+    margin-left: 15px;
+}
+.second_header{
+    margin: 0px;
+}
+.three_segment_grid{
+    margin-top: 10px !important;
+    margin-right: 0px !important;
+}
+.three_segment{
+    border: 0px !important;
+    border-radius: 0px !important;
+}
+.chart_heading{
+    float: left;
+}
+.chart_icon{
+    float: right;
+}
+.chart_heading h4{
+    margin-bottom: 0px;
+}
+.chart_button{
+    margin: 15px 18% !important;
+}
+.chart_segment img{
+    max-width: 100%;
+}
+.chart_segment_grid{
+    margin-top: 10px !important;
+    margin-right: 0px !important;
+}
+.chart_segment{
+    border: 0px !important;
+    border-radius: 0px !important;
+}
+
+
+/********* Sidebar Menu Responsiveness **********/
+
+@media only screen and (max-width: 767px){
+    .mb_hidden_text{
+        display: none;
+    }
+}
