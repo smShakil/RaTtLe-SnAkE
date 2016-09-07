@@ -9,4 +9,4 @@ We would love to see how you use this awesome admin template. You can notify us 
 
 # Contact
 * S.M. Shakil
-* Email: smshakil@gmail.com
+* Email: smshakil.kuet@gmail.com
